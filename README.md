@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Tom
 
-<!--
-**orbitaldriftAK/orbitaldriftAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building clean, useful tools that solve real problems. My main focus is Python automation and workflow tools — recently I built **Tempest**, a desktop automation app for parsing Excel data and interacting with browser systems.
 
-Here are some ideas to get you started:
+I also enjoy frontend design — check out my notes app, **Carrier**, for a themed in-browser UI built with HTML/CSS/JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+-  [Carrier – A Themed Notes App](https://github.com/orbitaldriftAK/carrier)
+-  Tempest (Private – Available on request)
+
+## 🛠 Skills
+Python · Workflow Automation · Excel Tools · Browser Scripting · Front-End UI
+
+
