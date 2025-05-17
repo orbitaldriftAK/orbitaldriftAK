@@ -8,7 +8,7 @@ I also enjoy frontend design — check out my notes app, **Carrier**, for a them
 -  [Carrier – A Themed Notes App](https://github.com/orbitaldriftAK/carrier)
 -  Tempest (Private – Available on request)
 
-## 🛠 Skills
+##  Skills
 Python · Workflow Automation · Excel Tools · Browser Scripting · Front-End UI
 
 
